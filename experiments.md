@@ -1,2 +1,0 @@
-pair programming
-students teach lectures

@@ -1,0 +1,26 @@
+# REACT
+
+big picture architecure statement - is this right?
+	oop components, fp applications.
+	build your app of objects that behave like pure functions from the outside - stateless components
+	article supporting this:  https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
+
+article about idiomatic react architecutre
+	https://firstdoit.com/how-i-learned-to-stop-worrying-and-love-react-4e22b0bb6c2a
+
+For intro to using it.  code to study, exercises, building to music app	
+	can we do it much better than these do it? I know I can't
+	https://blog.risingstack.com/the-react-way-getting-started-tutorial/
+	https://github.com/RisingStack/react-baby-steps
+
+prerecs
+	SPAs 101
+	fp advanced
+	immutable data - lodash
+	local moduleing ?
+	es6, jsx
+	axios/fetch. async calls
+	... fill out  
+
+interesting video on the near future of react
+	https://www.youtube.com/watch?v=4anAwXYqLG8

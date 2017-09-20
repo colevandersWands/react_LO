@@ -13,25 +13,20 @@ git add .
 git commit -m 'committing all - content-md'
 cd ..
 
-cd pathbooking/pathbook
-git add .
-git commit -m 'committing all - pathbook'
-cd ../..
+# cd pathbooking/pathbook
+# git add .
+# git commit -m 'committing all - pathbook'
+# cd ../..
 
 cd projects
 git add .
 git commit -m 'committing all - projects'
 cd ..
 
-cd Sepco
+cd sepcoing/Sepco
 git add .
 git commit -m 'committing all - Sepco'
-cd ..
-
-cd to-filter-codes
-git add .
-git commit -m 'committing all - to-filter-codes'
-cd ..
+cd ../..
 
 cd to-filter-markdowns
 git add .
