@@ -2,9 +2,15 @@
 
 Using branch commands is simple.  Using them effectively takes some planning and discipline.  
 * [simple local strategy](https://www.visualstudio.com/en-us/articles/git-branching-guidance)  - contradicts what i said about tags, wha-eva  
-* [simple workflow walkthrough](https://www.atlassian.com/blog/git/simple-git-workflow-simple)
-* [comparison of strategies](http://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)  
-* [advanced group remote/local branching strategy](http://nvie.com/posts/a-successful-git-branching-model/)
+* [simple workflow walkthrough](https://www.atlassian.com/blog/git/simple-git-workflow-simple)  
+* [Stackoverflow Discusion](https://stackoverflow.com/questions/2428722/git-branch-strategy-for-small-dev-team)  
+* [From the GIT docs](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+* [comparison of strategies](http://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)    
+* [develop, release, master](http://drewfradette.ca/a-simpler-successful-git-branching-model/)  
+* [three-flow](http://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/)  - says its better than the advanced one
+* [so many words](http://scottchacon.com/2011/08/31/github-flow.html)
+* [advanced group remote/local branching strategy](http://nvie.com/posts/a-successful-git-branching-model/)  
+* [a repo](https://github.com/steotia/branching-strategies)
 
 ### Atomic Commits
 When you start working on big projects, you will be modifying multiple files which will all need saving. However, it's best practice to save files purposefully; we call this an **atomic commit**.
