@@ -1,5 +1,5 @@
 advanced js:
-    skip prototype inheritance
+    prototype inheritance
     classes
     super/extends
     closures(simple) + bind
