@@ -15,6 +15,16 @@ git checkout master
 git pull janke master
 cd ..
 
+cd nodes
+git checkout master
+git pull janke master
+cd ..
+
+cd jankeLearning.github.io
+git checkout master
+git pull janke master
+cd ..
+
 # cd pathbooking/pathbook
 # git checkout master
 # git pull janke master

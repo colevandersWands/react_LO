@@ -13,6 +13,16 @@ git add .
 git commit -m 'committing all - content-md'
 cd ..
 
+cd nodes
+git add .
+git commit -m 'committing all - nodes'
+cd ..
+
+cd jankeLearning.github.io
+git add .
+git commit -m 'committing all - jankelearning'
+cd ..
+
 # cd pathbooking/pathbook
 # git add .
 # git commit -m 'committing all - pathbook'

@@ -51,7 +51,7 @@ When you hear that everything in JS is an object, this is literally true.  If yo
     3. Enter 'fun' in the console, see that arrow to the left of it?  click that. What do you see?
     4. Enter 'fun.\_\_proto\_\_' in the console.  How does it compare to what you saw in the stpes above?
     5. Enter 'fun.\_\_proto\_\_.\_\_proto\_\_' in the console.  How does it compare to what you saw in the stpes above?
-    6. Enter 'arr.\_\_proto\_\_.\_\_proto\_\_.\_\_proto\_\_' in the console.
+    6. Enter 'fun.\_\_proto\_\_.\_\_proto\_\_.\_\_proto\_\_' in the console.
     
 Carry on to learn what all this means.    The rest of this chapter will cover the basics of inheritance in [Proto Lookup Chain](#proto-lookup-chain), present some tools for studying inheritance in the wild with [Useful Methods](#useful-methods), and finally provide some [Recommended Practices](#recommended-practices).
     
@@ -169,6 +169,10 @@ ___
 [cli exercises](https://github.com/sporto/planetproto)    
 
 [a resource](http://js4py.readthedocs.io/en/latest/object-tree.html)  
+  
+[learn-co](https://github.com/learn-co-curriculum/intro-oo-js)
+
+[MDN explains](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)  
 
 [TOP](#table-of-contents)
 ___

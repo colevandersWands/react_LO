@@ -12,6 +12,14 @@ cd content-md
 git push janke master
 cd ..
 
+cd nodes
+git push janke master
+cd ..
+
+cd jankeLearning.github.io
+git push janke master
+cd ..
+
 # cd pathbooking/pathbook
 # git push janke master
 # cd ../..
