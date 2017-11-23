@@ -22,15 +22,17 @@ var app = {
 		var text_input = document.getElementById('text_input');
 		var new_state = text_input.value;	
 		var route = '/post/' + new_state;
-		app.api_connection.post(route) // axios call to get the data
-			.then((response) => {
-				app.render_display(response.data);
-			})
-			.catch((error) => {
-				if(error) {	
-					console.log(error);
-				}
-			});
+		app.api_connection.post(route, {
+				prop: 'val'
+			}) // axios call to get the data
+				.then((response) => {
+					app.render_display(response.data);
+				})
+				.catch((error) => {
+					if(error) {	
+						console.log(error);
+					}
+				});
 	},
 	read_local: function() {
 		app.render_display(app.local_state);

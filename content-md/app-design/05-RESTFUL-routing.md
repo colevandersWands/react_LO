@@ -94,3 +94,5 @@ External Resources
 Source
 ---
 https://en.wikipedia.org/wiki/Representational_state_transfer
+
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements 

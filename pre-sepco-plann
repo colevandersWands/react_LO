@@ -1,0 +1,98 @@
+jl:
+	developing 
+		resources
+		skills list (of which studying)
+			exercises
+			resources
+	js basics
+		resources
+		exercises
+		assessments
+	js static apps
+		resources
+		steps	
+			resources
+			exercises
+			assessments
+			projects
+		final project
+		addons
+	memp back
+		resources
+		steps	
+			resources
+			exercises
+			assessments
+			projects
+		final project
+		addons
+	advanced js
+		topics
+			exercises
+			resources
+			projects
+	pREACT
+		topics
+			exercises 
+			resources
+		project
+	react
+		resources
+		steps
+			resources
+			exercises
+			assesment
+			project	
+		final project	
+		addons
+
+
+
+make pullable, us or them
+	us: have empty folders
+		+ convenient for student
+		- harder to maintain
+	them: they make their own
+		+ easier to maintain
+		+ less opinionated
+		- more difficult to use?
+
+books/source 
+	books: as above
+	source: (don't matter, links)?
+	in jl, a source repo per book? structured like
+(book = source) ?
+	book only chooses readmes
+	melikes
+
+usage:
+	make a new folder for your step
+
+structure:
+	books:
+		Summary
+		Readme + objectives (including topics to review and exercises)
+		resources 
+		steps
+			readme + objectives
+			resources
+				readme.md - descriptions, index and links
+				folders of code
+			exercises
+				readme.md - descriptions, index and links
+				folders of code
+			assessment
+				readme.md - descriptions, index
+				folders of code
+			project
+				readme - description
+				empty/specs/dummy/whatever
+		final project
+			readme - completely blank file start
+
+https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba
+
+https://www.google.be/search?client=safari&rls=en&q=learn+node.js+completely+and+with+confidence&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=xGpSWZTAKYfVXoiJr9AE
+
+https://github.com/exercism/exercism.io
+https://github.com/exercism/javascript	

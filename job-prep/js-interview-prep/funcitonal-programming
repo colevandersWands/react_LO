@@ -1,0 +1,10 @@
+    * https://github.com/jankeLearning/content-md/blob/master/js/06-FP-1.md
+    * https://github.com/DrBoolean/mostly-adequate-guide
+    * https://github.com/jankeLearning/content-md/blob/master/app-design/09-immutable-data.md
+    * https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-lodash.md
+    * currying: https://blog.hellojs.org/object-oriented-programming-vs-functional-programming-best-of-both-worlds-66d63a4b935b
+    * oop vs fp
+      * https://stackoverflow.com/questions/37231841/beginner-javascript-oop-vs-functional
+      * good comparison example: https://github.com/juliomatcom/object-vs-functional-js
+      * oop: data bundled with functionality  
+      * fp: functionality bundled with data
